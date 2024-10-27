@@ -1,8 +1,8 @@
 # Exploratory Data Analysis (EDA) and Data Cleaning on Titanic Dataset
+[Titanic dataset from Kaggle](https://www.kaggle.com/c/titanic/data)
 
 ## Project Overview
-
-This project performs data cleaning and exploratory data analysis (EDA) on the [Titanic dataset from Kaggle](https://www.kaggle.com/c/titanic/data). The main objective is to explore relationships between variables, identify trends, and extract insights that could help predict survival rates among passengers. EDA is a crucial step in the data science workflow, providing a deeper understanding of the data, which is essential for further modeling.
+This project performs data cleaning and exploratory data analysis (EDA) on the. The main objective is to explore relationships between variables, identify trends, and extract insights that could help predict survival rates among passengers. EDA is a crucial step in the data science workflow, providing a deeper understanding of the data, which is essential for further modeling.
 
 ## Dataset
 
